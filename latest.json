@@ -1,0 +1,403 @@
+{
+  "Anti Bot": {
+    "value": false,
+    "Key": 0,
+    "Mode": "TAB_TICKS",
+    "Tab Ticks": 50.0
+  },
+  "Auto Pot": {
+    "value": false,
+    "Key": 0,
+    "Health": 16.0,
+    "Delay": 750.0,
+    "Pot in GUI": false
+  },
+  "Kill Aura": {
+    "value": false,
+    "Key": 0,
+    "Mode": "SINGLE",
+    "Switch Delay": 50.0,
+    "Discover Range": 3.0,
+    "Attack Range": 3.0,
+    "Walls": true,
+    "Rotate": "BASIC",
+    "Auto Block": "HYPIXEL",
+    "Min CPS": 20.0,
+    "Max CPS": 20.0,
+    "Pre Hit": false,
+    "Attack Players": true,
+    "Attack Non Players": false,
+    "Attack Invisibles": false,
+    "Attack Teammates": false,
+    "Attack In Inventory": false,
+    "Keep Sprint": true,
+    "Auto Disable": true,
+    "Autism": false
+  },
+  "Regen": {
+    "value": false,
+    "Key": 0,
+    "Health": 15.0,
+    "Packets/Tick": 10.0
+  },
+  "Target Strafe": {
+    "value": true,
+    "Key": 0,
+    "Range": 1.5
+  },
+  "Velocity": {
+    "value": true,
+    "Key": 0,
+    "Mode": "NORMAL",
+    "Horizontal": 0.0,
+    "Vertical": 100.0,
+    "Ticks": 2.0
+  },
+  "Auto Clicker": {
+    "value": false,
+    "Key": 0,
+    "Min CPS": 8.0,
+    "Max CPS": 12.0
+  },
+  "Fast Place": {
+    "value": false,
+    "Key": 0,
+    "Delay": 0.0
+  },
+  "No Click Delay": {
+    "value": false,
+    "Key": 0
+  },
+  "No Jump Delay": {
+    "value": false,
+    "Key": 0
+  },
+  "W Tap": {
+    "value": false,
+    "Key": 0,
+    "Mode": "LEGIT"
+  },
+  "Flight": {
+    "value": false,
+    "Key": 0,
+    "Mode": "VANILLA",
+    "Vulcan Mode": "AirWalk",
+    "Speed": 0.5
+  },
+  "Inventory Move": {
+    "value": false,
+    "Key": 0,
+    "Mode": "VANILLA",
+    "Only In Client GUI": false
+  },
+  "No Slowdown": {
+    "value": true,
+    "Key": 0,
+    "Mode": "HYPIXEL",
+    "Sword": true,
+    "Consumables": true
+  },
+  "Speed": {
+    "value": false,
+    "Key": 0,
+    "Mode": "HYPIXEL",
+    "Speed": 0.5,
+    "Strafe": false
+  },
+  "Sprint": {
+    "value": true,
+    "Key": 0,
+    "Omni": false
+  },
+  "Anti Tab Complete": {
+    "value": false,
+    "Key": 0,
+    "Only Client Commands": true
+  },
+  "Auto Play": {
+    "value": true,
+    "Key": 0,
+    "Mode": "HYPIXEL",
+    "Delay": 1500.0,
+    "Dynamic": false
+  },
+  "Chat Bypass": {
+    "value": false,
+    "Key": 0,
+    "Mode": "HYPIXEL"
+  },
+  "Disabler": {
+    "value": true,
+    "Key": 0,
+    "Mode": "HYPIXEL",
+    "Strafe": true,
+    "Inventory": false
+  },
+  "Discord RPC": {
+    "value": false,
+    "Key": 0
+  },
+  "Inventory Sync": {
+    "value": false,
+    "Key": 0
+  },
+  "Kill Sults": {
+    "value": false,
+    "Key": 0,
+    "Mode": "HYPIXEL",
+    "Bland": true,
+    "TikTok Boy Cringe": true,
+    "Narcissism": true,
+    "Andrew Tate": true,
+    "Xbox Live": true
+  },
+  "Lightning Detector": {
+    "value": true,
+    "Key": 0
+  },
+  "No Rotate": {
+    "value": false,
+    "Key": 0,
+    "Mode": "EDIT"
+  },
+  "Optimization": {
+    "value": false,
+    "Key": 0,
+    "No Lit Particles": false,
+    "No Armor Stand": false
+  },
+  "Auto Tool": {
+    "value": false,
+    "Key": 0,
+    "Delay": 50.0
+  },
+  "Chest Stealer": {
+    "value": true,
+    "Key": 0,
+    "Min Delay": 100.0,
+    "Max Delay": 400.0,
+    "Name Check": true,
+    "Shuffle": true,
+    "Auto Close": true,
+    "Render Selected": true
+  },
+  "Inventory Manager": {
+    "value": true,
+    "Key": 0,
+    "Min Delay": 100.0,
+    "Max Delay": 400.0
+  },
+  "No Void": {
+    "value": true,
+    "Key": 0,
+    "Mode": "HYPIXEL",
+    "Distance": 3.5
+  },
+  "Nuker": {
+    "value": true,
+    "Key": 0,
+    "Mode": "HYPIXEL",
+    "Rotate": true,
+    "Range": 3.0
+  },
+  "Scaffold": {
+    "value": false,
+    "Key": 0,
+    "Mode": "HYPIXEL",
+    "Tower": "OFF",
+    "Sprint Mode": "HYPIXEL",
+    "Same Y": true,
+    "Rotate": true,
+    "Cancel Sprint": true
+  },
+  "Speed Mine": {
+    "value": false,
+    "Key": 0,
+    "Progress": 90.0
+  },
+  "Ambience": {
+    "value": false,
+    "Key": 0,
+    "Color Intensity": 0.699999988079071
+  },
+  "Animations": {
+    "value": true,
+    "Key": 0,
+    "Mode": "_1_POINT_7",
+    "Sword Only": true
+  },
+  "Array List": {
+    "value": true,
+    "Key": 0,
+    "X": 758.5,
+    "Y": 0.0,
+    "Lower case": true,
+    "Background": false,
+    "Shaders": true,
+    "Border": true,
+    "UI Modules": true
+  },
+  "Bread Crumbs": {
+    "value": false,
+    "Key": 0
+  },
+  "Brightness": {
+    "value": true,
+    "Key": 0,
+    "Brightness": 100.0
+  },
+  "Chams": {
+    "value": true,
+    "Key": 0
+  },
+  "Chat": {
+    "value": true,
+    "Key": 0,
+    "Mode": "MODIFY",
+    "Animate": true
+  },
+  "Click GUI": {
+    "Key": 0,
+    "Mode": "MATERIAL",
+    "Transparent": true
+  },
+  "Custom Hotbar": {
+    "value": true,
+    "Key": 0,
+    "X": 389.0,
+    "Y": 482.0
+  },
+  "ESP": {
+    "value": true,
+    "Key": 0,
+    "Mode": "TWO_DIMENSIONAL",
+    "Name Tags": false,
+    "Players": true,
+    "Containers": false
+  },
+  "Game Statistics": {
+    "value": true,
+    "Key": 0,
+    "X": 5.0,
+    "Y": 484.5
+  },
+  "Kill Effect": {
+    "value": true,
+    "Key": 0,
+    "Mode": "FLAMES",
+    "Sound": true,
+    "Multiplier": 2.0
+  },
+  "No Gui Close": {
+    "value": true,
+    "Key": 0,
+    "Only Click GUI": false
+  },
+  "Notifications": {
+    "value": true,
+    "Key": 0,
+    "Blur": true,
+    "Bloom": true
+  },
+  "Particles": {
+    "value": false,
+    "Key": 0,
+    "Criticals": false,
+    "Always Sharpness": false,
+    "Sharpness": false,
+    "Multiplier": 2.0
+  },
+  "Scoreboard": {
+    "value": true,
+    "Key": 0,
+    "X": 7.0,
+    "Y": 135.5,
+    "Mode": "HIDE"
+  },
+  "Session Statistics": {
+    "value": true,
+    "Key": 0,
+    "X": 5.0,
+    "Y": 28.5,
+    "Mode": "NOVA"
+  },
+  "Spotify": {
+    "value": true,
+    "Key": 0,
+    "X": 5.0,
+    "Y": 85.0,
+    "Log In On Start": false
+  },
+  "Target HUD": {
+    "value": true,
+    "Key": 0,
+    "X": 486.0,
+    "Y": 258.5,
+    "Mode": "NOVA",
+    "Shaders": true
+  },
+  "Time Change": {
+    "value": true,
+    "Key": 0,
+    "Time": 1000.0
+  },
+  "UI": {
+    "value": true,
+    "Key": 0,
+    "Theme": "AMERICA",
+    "Red (One)": 255.0,
+    "Green (One)": 0.0,
+    "Blue (One)": 0.0,
+    "Red (Two)": 86.0,
+    "Green (Two)": 0.0,
+    "Blue (Two)": 0.0,
+    "Font": "POPPINS",
+    "Font Size": 15.0,
+    "Text Shadow": true
+  },
+  "Watermark": {
+    "value": true,
+    "Key": 0,
+    "X": 5.0,
+    "Y": 5.0,
+    "Mode": "NOVA_TWO"
+  },
+  "No Fall": {
+    "value": false,
+    "Key": 0,
+    "Mode": "HYPIXEL"
+  },
+  "Criticals": {
+    "value": false,
+    "Key": 0,
+    "Mode": "HYPIXEL"
+  },
+  "No Effects": {
+    "value": false,
+    "Key": 0,
+    "Blindness": true,
+    "Nausea": true,
+    "Night Vision": true,
+    "Hurt Cam": true
+  },
+  "Phase": {
+    "value": true,
+    "Key": 0,
+    "Mode": "HYPIXEL"
+  },
+  "Long Jump": {
+    "value": false,
+    "Key": 0,
+    "Boost": true
+  },
+  "Debug": {
+    "value": false,
+    "Key": 0
+  },
+  "Test": {
+    "value": false,
+    "Key": 0,
+    "Range": 3.5,
+    "Rotate": true
+  }
+}
