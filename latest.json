@@ -1,8 +1,8 @@
 {
   "Anti Bot": {
-    "value": false,
+    "value": true,
     "Key": 0,
-    "Mode": "TAB_TICKS",
+    "Mode": "HYPIXEL_SKYWARS",
     "Tab Ticks": 50.0
   },
   "Auto Pot": {
@@ -14,10 +14,10 @@
   },
   "Kill Aura": {
     "value": false,
-    "Key": 0,
+    "Key": 19,
     "Mode": "SINGLE",
     "Switch Delay": 50.0,
-    "Discover Range": 3.0,
+    "Discover Range": 4.0,
     "Attack Range": 3.0,
     "Walls": true,
     "Rotate": "BASIC",
@@ -43,7 +43,7 @@
   "Target Strafe": {
     "value": true,
     "Key": 0,
-    "Range": 1.5
+    "Range": 2.0
   },
   "Velocity": {
     "value": true,
@@ -99,10 +99,10 @@
   },
   "Speed": {
     "value": false,
-    "Key": 0,
+    "Key": 16,
     "Mode": "HYPIXEL",
     "Speed": 0.5,
-    "Strafe": true
+    "Strafe": false
   },
   "Sprint": {
     "value": true,
@@ -130,8 +130,7 @@
     "value": true,
     "Key": 0,
     "Mode": "HYPIXEL",
-    "Strafe": true,
-    "Inventory": false
+    "Strafe": true
   },
   "Discord RPC": {
     "value": false,
@@ -139,6 +138,10 @@
   },
   "Inventory Sync": {
     "value": false,
+    "Key": 0
+  },
+  "IRC Chat": {
+    "value": true,
     "Key": 0
   },
   "Kill Sults": {
@@ -194,15 +197,16 @@
     "Distance": 3.5
   },
   "Nuker": {
-    "value": true,
+    "value": false,
     "Key": 0,
     "Mode": "HYPIXEL",
     "Rotate": true,
-    "Range": 3.0
+    "Range": 3.0,
+    "Break Progress": 1.0
   },
   "Scaffold": {
     "value": false,
-    "Key": 0,
+    "Key": 33,
     "Mode": "HYPIXEL",
     "Tower": "OFF",
     "Sprint Mode": "HYPIXEL",
@@ -276,10 +280,11 @@
     "Containers": false
   },
   "Game Statistics": {
-    "value": false,
+    "value": true,
     "Key": 0,
-    "X": 0.0,
-    "Y": -1.0
+    "X": 5.0,
+    "Y": 484.5,
+    "Shaders": true
   },
   "Kill Effect": {
     "value": true,
@@ -373,7 +378,7 @@
     "Mode": "HYPIXEL"
   },
   "No Effects": {
-    "value": false,
+    "value": true,
     "Key": 0,
     "Blindness": true,
     "Nausea": true,
@@ -381,7 +386,7 @@
     "Hurt Cam": true
   },
   "Phase": {
-    "value": true,
+    "value": false,
     "Key": 0,
     "Mode": "HYPIXEL"
   },
