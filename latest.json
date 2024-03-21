@@ -102,7 +102,7 @@
     "Key": 0,
     "Mode": "HYPIXEL",
     "Speed": 0.5,
-    "Strafe": false
+    "Strafe": true
   },
   "Sprint": {
     "value": true,
@@ -147,9 +147,9 @@
     "Mode": "HYPIXEL",
     "Bland": true,
     "TikTok Boy Cringe": true,
-    "Narcissism": true,
-    "Andrew Tate": true,
-    "Xbox Live": true
+    "Narcissism": false,
+    "Andrew Tate": false,
+    "Xbox Live": false
   },
   "Lightning Detector": {
     "value": true,
@@ -234,7 +234,7 @@
     "Lower case": true,
     "Background": false,
     "Shaders": true,
-    "Border": true,
+    "Border": false,
     "UI Modules": true
   },
   "Bread Crumbs": {
@@ -259,7 +259,7 @@
   "Click GUI": {
     "Key": 54,
     "Mode": "MATERIAL",
-    "Transparent": true
+    "Design Mode": "TRANSPARENT"
   },
   "Custom Hotbar": {
     "value": true,
@@ -276,10 +276,10 @@
     "Containers": false
   },
   "Game Statistics": {
-    "value": true,
+    "value": false,
     "Key": 0,
-    "X": 5.0,
-    "Y": 484.5
+    "X": 0.0,
+    "Y": -1.0
   },
   "Kill Effect": {
     "value": true,
@@ -344,13 +344,13 @@
   "UI": {
     "value": true,
     "Key": 0,
-    "Theme": "AMERICA",
-    "Red (One)": 255.0,
-    "Green (One)": 0.0,
-    "Blue (One)": 0.0,
-    "Red (Two)": 86.0,
-    "Green (Two)": 0.0,
-    "Blue (Two)": 0.0,
+    "Theme": "NOVA",
+    "Red (One)": 110.0,
+    "Green (One)": 105.0,
+    "Blue (One)": 110.0,
+    "Red (Two)": 255.0,
+    "Green (Two)": 255.0,
+    "Blue (Two)": 255.0,
     "Font": "POPPINS",
     "Font Size": 15.0,
     "Text Shadow": true
