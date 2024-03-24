@@ -1,6 +1,6 @@
 {
   "Anti Bot": {
-    "value": true,
+    "value": false,
     "Key": 0,
     "Mode": "HYPIXEL_SKYWARS",
     "Tab Ticks": 50.0
@@ -41,7 +41,7 @@
     "Packets/Tick": 10.0
   },
   "Target Strafe": {
-    "value": true,
+    "value": false,
     "Key": 0,
     "Range": 2.0
   },
@@ -127,10 +127,11 @@
     "Mode": "HYPIXEL"
   },
   "Disabler": {
-    "value": true,
+    "value": false,
     "Key": 0,
     "Mode": "HYPIXEL",
     "Strafe": true
+    "Inventory": false
   },
   "Discord RPC": {
     "value": false,
